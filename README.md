@@ -12,7 +12,7 @@ A modular, terminal-based personal assistant. Lightweight, extensible, and fun.
 
 ## Quickstart
 ```bash
-git clone https://github.com/azlanabdulla/anomie-advanced.git
+git clone https://github.com/azlanabdulla/anomie-cli.git
 cd anomie-advanced
 pip install -r requirements.txt
 python anomie.py
